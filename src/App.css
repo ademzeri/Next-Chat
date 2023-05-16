@@ -1,0 +1,13 @@
+body {
+    font-family: 'Josefin Sans';
+    background-color: #FFFAFB;
+    color:black
+  }
+  
+  * {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  
+  }
+  

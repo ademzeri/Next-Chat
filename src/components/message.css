@@ -1,0 +1,10 @@
+#owner{
+    flex-direction: row-reverse;
+}
+
+#owner .message-text{
+    background-color: #8da4f1;
+    color: white;
+    border-radius: 12px;
+    border-top-right-radius: 0px;
+}
